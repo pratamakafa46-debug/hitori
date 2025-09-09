@@ -8,9 +8,9 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6285141486165'] //['6281383181971''] 2 owner atau lebih
+global.owner = ['6285141486165'] ['6281383181971']
 global.author = 'ELYS BOT'
-global.botname = 'ELYS BOT 
+global.botname = 'ELYS BOT' 
 global.packname = 'Bot WhatsApp'
 global.listprefix = ['+','!','.']
 
@@ -55,7 +55,7 @@ global.money = {
 
 global.mess = {
 	key: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus Owner!',
+	owner: 'Fitur Khusus owner!!',
 	admin: 'Fitur Khusus Admin!',
 	botAdmin: 'Bot Bukan Admin!',
 	group: 'Gunakan Di Group!',
@@ -64,7 +64,7 @@ global.mess = {
 	prem: 'Khusus User Premium!',
 	wait: 'Loading.........',
 	error: 'ADA EROR!',
-	done: 'Done'
+	done: 'Done ya'
 }
 
 global.APIs = {
