@@ -36,8 +36,8 @@ global.fake = {
 
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/HmsIFbSZ57R7RFMZdIZx0m?mode=ems_copy_t',
+	gh: 'https://github.com/pratamakafa46-debug/hitori.git',
+	gc: 'https://whatsapp.com/channel/0029Vb6uQjwI1rcpH05PrF38',
 	ch: '120363250409960161@newsletter',
 }
 
@@ -55,14 +55,14 @@ global.money = {
 
 global.mess = {
 	key: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
-	owner: 'Fitur Khusus owner!!',
+	owner: 'Fitur Khusus owner!',
 	admin: 'Fitur Khusus Admin!',
 	botAdmin: 'Bot Bukan Admin!',
 	group: 'Gunakan Di Group!',
 	private: 'Gunakan Di Privat Chat!',
 	limit: 'Limit Anda Telah Habis!',
 	prem: 'Khusus User Premium!',
-	wait: 'Loading.........',
+	wait: 'Loading.......',
 	error: 'ADA EROR!',
 	done: 'Done ya'
 }
