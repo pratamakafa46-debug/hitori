@@ -8,7 +8,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6285141486165'] ['6281383181971']
+global.owner = ['6285141486165'] //['628','628'] 2 owner atau lebih
 global.author = 'ELYS BOT'
 global.botname = 'ELYS BOT' 
 global.packname = 'Bot WhatsApp'
@@ -62,9 +62,9 @@ global.mess = {
 	private: 'Gunakan Di Privat Chat!',
 	limit: 'Limit Anda Telah Habis!',
 	prem: 'Khusus User Premium!',
-	wait: 'Loading.......',
-	error: 'ADA EROR!',
-	done: 'Done ya'
+	wait: 'Loading...',
+	error: 'EROR!',
+	done: 'Done'
 }
 
 global.APIs = {
